@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohi</h1>
 <h3 align="center">Graduate Student @ UIUC | Ex-BlackRock Data Engineer | Aspiring Data Scientist</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohi-m" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:mohi2@illinois.edu">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://github.com/mohi-m">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me

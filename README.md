@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<br>
+
+<div align="center">
   
 # Hi there! 👋 I'm Mohi
   
@@ -36,8 +41,6 @@ class 10xDeveloper:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 ```
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -81,35 +84,12 @@ class 10xDeveloper:
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohi-m&layout=compact&langs_count=8&theme=tokyonight"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohi-m&theme=tokyonight" alt="Profile Details"/>
 </div>
-
----
-
-## 🏆 Achievements & Experience
-
-<div align="left">
-
-```mermaid
-Timeline
-    Title: My Professional Journey
-    2021-2024 : BlackRock : Data Engineer
-                            : Built scalable data pipelines
-                            : Managed petabyte-scale datasets
-    2024-Present : UIUC : MS Information Science
-                        : Focus on ML & AI Safety
-                        : Research in LLMs & Causal Inference
-```
-
-</div>
-
----
 
 ## 🌟 Let's Connect!
 
@@ -130,7 +110,3 @@ Timeline
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>

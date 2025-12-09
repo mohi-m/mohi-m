@@ -87,7 +87,6 @@ class 10xDeveloper:
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohi-m&layout=compact&langs_count=8&theme=tokyonight"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohi-m&theme=tokyonight" alt="Profile Details"/>
 </div>
 
